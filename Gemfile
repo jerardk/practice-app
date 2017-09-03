@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-#User Account Ability?
+gem 'devise', '~> 4.2'
 gem 'bootstrap-sass-extras','~> 0.0.2'
 #Nice Fonts/ FontImages
 gem 'font-awesome-sass','~> 4.5'
