@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+#User Account Ability?
+gem 'bootstrap-sass-extras','~> 0.0.2'
+#Nice Fonts/ FontImages
 gem 'font-awesome-sass','~> 4.5'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
